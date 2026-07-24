@@ -2,6 +2,10 @@
 
 <<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0DFFAF&background=FFFFFF00&width=435&lines=Eu+sou+o+Mateus">
 
+Sou estudando do Senai São Caetano do Sul, na area do de desenvolvimento de sistema
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
 ## 🐍 Minhas contribuições
 
 <picture>
